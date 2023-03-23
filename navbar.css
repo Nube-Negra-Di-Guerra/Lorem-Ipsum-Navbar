@@ -31,7 +31,13 @@ body{
     font-size: 21px;
 }
 
-.text-3,
+.text-3{
+        margin: 50px 10%;
+        font-family: Times, serif;
+        font-size: 21px;
+        font-weight: bolder;
+}
+
 .text-2{
     margin: 50px 5%;
     font-family: 'Times New Roman', Times, serif;
